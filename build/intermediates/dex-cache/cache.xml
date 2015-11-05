@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/baqlawi/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/baqlawi/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/pre-dexed/debug/classes-db093d8d7b820afd659f2e377b55a0b884349130.jar" />
+    </item>
+    <item
+        jar="/home/baqlawi/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="/home/baqlawi/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/pre-dexed/debug/classes-233910d890bb4ab3a9cc774d0fc3afd6cd55d2b2.jar" />
+    </item>
+    <item
+        jar="/media/baqlawi/Resources/Android/SDK/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/home/baqlawi/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-3d7b92781772273686a23b097876d99d746a2246.jar" />
+    </item>
+    <item
+        jar="/home/baqlawi/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/home/baqlawi/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/pre-dexed/debug/classes-681f4ff9e4a89a882322964fcd71035e1e479a35.jar" />
+    </item>
+    <item
+        jar="/home/baqlawi/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/home/baqlawi/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-44c84e39aead66ddf63b09e157d4ad234ec05049.jar" />
+    </item>
+    <item
+        jar="/home/baqlawi/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/home/baqlawi/AndroidStudioProjects/ActionBarCompat-Basic/Application/build/intermediates/pre-dexed/debug/classes-bf5691901e9571b35e8ae7e652e9381d5e884f25.jar" />
+    </item>
+
+</items>

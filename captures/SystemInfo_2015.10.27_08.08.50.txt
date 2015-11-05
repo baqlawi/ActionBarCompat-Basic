@@ -1,0 +1,396 @@
+Applications Graphics Acceleration Info:
+Uptime: 258788 Realtime: 258788
+
+** Graphics info for pid 2069 [com.example.android.actionbarcompat.basic] **
+
+Stats since: 174205582648ns
+Total frames rendered: 308
+Janky frames: 159 (51.62%)
+90th percentile: 30ms
+95th percentile: 32ms
+99th percentile: 46ms
+Number Missed Vsync: 58
+Number High input latency: 0
+Number Slow UI thread: 97
+Number Slow bitmap uploads: 1
+Number Slow issue draw commands: 34
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache            94464 / 25165824
+  LayerCache                  0 / 16777216 (numLayers = 0)
+  Layers total          0 (numLayers = 0)
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache                   0 /  4194304
+  TessellationCache           0 /  1048576
+  TextDropShadowCache         0 /  2097152
+  PatchCache                  0 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /        0
+Total memory usage:
+  618752 bytes, 0.59 MB
+
+Profile data in ms:
+
+	com.example.android.actionbarcompat.basic/com.example.android.actionbarcompat.basic.MainActivity/android.view.ViewRootImpl@78aa6a8 (visibility=0)
+Stats since: 174205582648ns
+Total frames rendered: 308
+Janky frames: 159 (51.62%)
+90th percentile: 30ms
+95th percentile: 32ms
+99th percentile: 46ms
+Number Missed Vsync: 58
+Number High input latency: 0
+Number Slow UI thread: 97
+Number Slow bitmap uploads: 1
+Number Slow issue draw commands: 34
+
+View hierarchy:
+
+  com.example.android.actionbarcompat.basic/com.example.android.actionbarcompat.basic.MainActivity/android.view.ViewRootImpl@78aa6a8
+  17 views, 21.39 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        17
+Total DisplayList:  21.39 kB
+
+
+** Graphics info for pid 1604 [com.android.launcher3] **
+
+Stats since: 16576926659ns
+Total frames rendered: 98
+Janky frames: 83 (84.69%)
+90th percentile: 32ms
+95th percentile: 65ms
+99th percentile: 81ms
+Number Missed Vsync: 11
+Number High input latency: 0
+Number Slow UI thread: 74
+Number Slow bitmap uploads: 3
+Number Slow issue draw commands: 48
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache          2972912 / 25165824
+  LayerCache                  0 / 16777216 (numLayers = 0)
+  Layers total          0 (numLayers = 0)
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache                   0 /  4194304
+  TessellationCache           0 /  1048576
+  TextDropShadowCache     20704 /  2097152
+  PatchCache               1856 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /        0
+Total memory usage:
+  3519760 bytes, 3.36 MB
+
+Profile data in ms:
+
+	com.android.launcher3/com.android.launcher3.Launcher/android.view.ViewRootImpl@82fc141 (visibility=8)
+Stats since: 16576926659ns
+Total frames rendered: 98
+Janky frames: 83 (84.69%)
+90th percentile: 32ms
+95th percentile: 65ms
+99th percentile: 81ms
+Number Missed Vsync: 11
+Number High input latency: 0
+Number Slow UI thread: 74
+Number Slow bitmap uploads: 3
+Number Slow issue draw commands: 48
+
+View hierarchy:
+
+  com.android.launcher3/com.android.launcher3.Launcher/android.view.ViewRootImpl@82fc141
+  73 views, 58.37 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        73
+Total DisplayList:  58.37 kB
+
+
+** Graphics info for pid 1755 [com.android.quicksearchbox] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 2018 [com.android.defcontainer] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1661 [android.process.acore] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 2083 [com.svox.pico] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1870 [com.android.keychain] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1685 [com.android.providers.calendar] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1778 [com.android.calendar] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1636 [com.android.printspooler] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1917 [com.android.email] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1935 [com.android.exchange] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1725 [android.process.media] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1571 [com.android.inputmethod.latin] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1896 [com.android.managedprovisioning] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1588 [com.android.phone] **
+Profile data in ms:
+
+View hierarchy:
+
+
+Total ViewRootImpl: 0
+Total Views:        0
+Total DisplayList:  0.00 kB
+
+
+** Graphics info for pid 1365 [com.android.systemui] **
+
+Stats since: 15869085740ns
+Total frames rendered: 536
+Janky frames: 359 (66.98%)
+90th percentile: 48ms
+95th percentile: 65ms
+99th percentile: 113ms
+Number Missed Vsync: 151
+Number High input latency: 0
+Number Slow UI thread: 202
+Number Slow bitmap uploads: 8
+Number Slow issue draw commands: 184
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache          4302288 / 25165824
+  LayerCache                  0 / 16777216 (numLayers = 0)
+  Layers total          0 (numLayers = 0)
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache                2272 /  4194304
+  TessellationCache        1488 /  1048576
+  TextDropShadowCache         0 /  2097152
+  PatchCache                128 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /        0
+Total memory usage:
+  4830464 bytes, 4.61 MB
+
+Profile data in ms:
+
+	StatusBar/android.view.ViewRootImpl@74a526 (visibility=0)
+Stats since: 15869085740ns
+Total frames rendered: 536
+Janky frames: 359 (66.98%)
+90th percentile: 48ms
+95th percentile: 65ms
+99th percentile: 113ms
+Number Missed Vsync: 151
+Number High input latency: 0
+Number Slow UI thread: 202
+Number Slow bitmap uploads: 8
+Number Slow issue draw commands: 184
+
+	NavigationBar/android.view.ViewRootImpl@d601567 (visibility=0)
+Stats since: 15869085740ns
+Total frames rendered: 536
+Janky frames: 359 (66.98%)
+90th percentile: 48ms
+95th percentile: 65ms
+99th percentile: 113ms
+Number Missed Vsync: 151
+Number High input latency: 0
+Number Slow UI thread: 202
+Number Slow bitmap uploads: 8
+Number Slow issue draw commands: 184
+
+	AssistPreviewPanel/android.view.ViewRootImpl@d18af14 (visibility=8)
+Stats since: 15869085740ns
+Total frames rendered: 536
+Janky frames: 359 (66.98%)
+90th percentile: 48ms
+95th percentile: 65ms
+99th percentile: 113ms
+Number Missed Vsync: 151
+Number High input latency: 0
+Number Slow UI thread: 202
+Number Slow bitmap uploads: 8
+Number Slow issue draw commands: 184
+
+	com.android.systemui/com.android.systemui.recents.RecentsActivity/android.view.ViewRootImpl@652d3bd (visibility=8)
+Stats since: 15869085740ns
+Total frames rendered: 536
+Janky frames: 359 (66.98%)
+90th percentile: 48ms
+95th percentile: 65ms
+99th percentile: 113ms
+Number Missed Vsync: 151
+Number High input latency: 0
+Number Slow UI thread: 202
+Number Slow bitmap uploads: 8
+Number Slow issue draw commands: 184
+
+View hierarchy:
+
+  StatusBar/android.view.ViewRootImpl@74a526
+  345 views, 288.32 kB of display lists
+
+  NavigationBar/android.view.ViewRootImpl@d601567
+  37 views, 31.61 kB of display lists
+
+  AssistPreviewPanel/android.view.ViewRootImpl@d18af14
+  5 views, 3.95 kB of display lists
+
+  com.android.systemui/com.android.systemui.recents.RecentsActivity/android.view.ViewRootImpl@652d3bd
+  11 views, 8.68 kB of display lists
+
+
+Total ViewRootImpl: 4
+Total Views:        398
+Total DisplayList:  332.56 kB
+
+
+** Graphics info for pid 1300 [system] **
+Profile data in ms:
+
+	KeyguardScrim/android.view.ViewRootImpl@b1e2a08 (visibility=8)
+View hierarchy:
+
+  KeyguardScrim/android.view.ViewRootImpl@b1e2a08
+  1 views, 0.79 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        1
+Total DisplayList:  0.79 kB
+
